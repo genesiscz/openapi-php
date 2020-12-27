@@ -1,5 +1,5 @@
 {
-  "name": "erasys/openapi-php",
+  "name": "genesiscz/openapi-php",
   "type": "library",
   "description": "Open API 3.0 builder and validation library for PHP that helps you write valid specs.",
   "keywords": [
